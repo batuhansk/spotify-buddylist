@@ -3,7 +3,8 @@ package main
 import (
 	"log"
 	"os"
-	"spotify-buddylist/pkg/spotify"
+
+	"github.com/batuhansk/spotify-buddylist/spotify"
 )
 
 func main() {
